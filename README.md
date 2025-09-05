@@ -80,8 +80,8 @@ The app will run at **[http://localhost:3000](http://localhost:3000)**
 ## 📸 Screenshots
 
 ### Review Dashboard
+<img width="1920" height="3452" alt="AI-Code-Review-Bot-PD (1)" src="https://github.com/user-attachments/assets/399f3588-ce31-4dc4-b26b-bf81a6a165c2" />
 
-![Review Dashboard](./assets/dashboard.png)
 
 ---
 
